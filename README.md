@@ -1,0 +1,2 @@
+# nthompson-platform.github.io
+Platform Engineering learner transitioning from AV Engineering. Building hands-on experience in Linux, Docker, Kubernetes, CI/CD, and cloud infrastructure.
