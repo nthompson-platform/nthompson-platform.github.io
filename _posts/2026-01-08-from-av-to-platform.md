@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "From AV Supervisor/Engineer to Platform Engineer - Week 1"
+title: "From AV Engineer to Platform Engineer - Week 1"
 ---
 
 
 
 ## Background
-I am currently an AV Supervisor/Engineer in a manufacturing environment and I am transitioning into Platform Engineering with a focus on cloud infrastructure, automation, and reliability. 
+I am currently an AV Engineer in a manufacturing environment and I am transitioning into Platform Engineering with a focus on cloud infrastructure, automation, and reliability. 
 
 
 
