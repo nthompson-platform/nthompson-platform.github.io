@@ -16,7 +16,7 @@ These projects focus on learning, experimentation, and applying concepts through
 
 **What I did:**
 - Installed and configured Linux in a lab environment
-- practiced basic system administration tasks
+- Practiced basic system administration tasks
 - Explored user management, permissions, and services
 
 **What I learned:**
