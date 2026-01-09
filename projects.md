@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Projects
 
 This page documents hands-on projects I'm building as I develop foundational skills in platform engineering. 
 These projects focus on learning, experimentation, and applying concepts through real configurations rather than production systems. 
@@ -27,6 +26,10 @@ These projects focus on learning, experimentation, and applying concepts through
 
 **Status:** In progress
 
+**Next Steps:**
+- Automate common administration tasks working with shell scripts
+- Practice service monitoring and log analysis
+
 ---
 
 ## Git & GitHub Workflow Practice
@@ -45,6 +48,10 @@ These projects focus on learning, experimentation, and applying concepts through
 
 **Status:** Ongoing
 
+**Next Steps:**
+- Practice branching and pull request workflows
+- Improve documentation structure and consistency
+
 ---
 
 ## Container Fundamentals (Planned)
@@ -58,6 +65,10 @@ These projects focus on learning, experimentation, and applying concepts through
 
 **Status:** Planned 
 
+**Next Steps:**
+- Containerize a simple application
+- Explore container lifecycle and resource usage
+
 ---
 
 ## Kubernetes & Cloud-Native Concepts (Planned)
@@ -70,3 +81,7 @@ These projects focus on learning, experimentation, and applying concepts through
 - Learn how platforms abstract infrastructure complexity
 
 **Status:** Planned
+
+**Next Steps:**
+- Deploy workloads to a local Kubernetes cluster
+- Understand how Kubernetes manages scaling and resilience
