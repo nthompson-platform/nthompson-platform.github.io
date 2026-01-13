@@ -6,7 +6,7 @@ date: 2026-01-15
 
 ## Week 2 Progress Update
 
-Week 2 was focused on building conistency and getting more comfortable working directly in Linux and GitHub. Rather than trying to move too fast my goal this week was to strengthen fundamentals and start forming better habits around documentation and experimentation. 
+Week 2 was focused on building conistency and getting more comfortable working directly in Linux and GitHub. Rather than trying to move too fast my goal this week was to strengthen core fundamentals and begin forming better habits around documentation, experimentation, and troubleshooting. 
 
 ---
 
@@ -25,7 +25,7 @@ Working through these issues helped me better understand how firmware, bootloade
 ---
 
 ### Linux Fundamentals (Hands-On)
-After completing the installation, I spent time working directly in the Linux terminal to become more comfortable navigating and administering the system. 
+After completing the installation, I spent time working directly in the Linux terminal to become more comfortable navigating and administering the system. This hands-on work helped reinforce how foundational Linux skills are to operating and supporting modern platforms and infrastructure. 
 
 ### Practicing Core Linux Shell Commands
 
@@ -44,19 +44,19 @@ Commands I practiced included:
 
 Below are screenshots from my terminal session showing the file navigation, file creation, copying files, and deletion. 
 
-**Creating and viewing a file with cat**
+**Creating and viewing a file using 'cat'**
 
 ![Creating and viewing a file with cat](/assets/images/week2/cat%20file1%20.png)
 
-**Troubleshooting directory navigation issues**
+**Troubleshooting directory navigation errors**
 
 ![Troubleshooting directory navigation issues](/assets/images/week2/cd%20troubleshooting.png)
 
-**Fixing file copy issues with cd**
+**Correcting file copy issues with 'cp'**
 
 ![Fixing file copy issues with cd](/assets/images/week2/cp%20fixed.png)
 
-**File deletion using rm**
+**Deleting files using 'rm'**
 
 ![File deletion using rm](/assets/images/week2/rm%20file.png)
 
@@ -72,7 +72,7 @@ Dealing with BIOS settings, boot modes, and USB detection required patience and 
 
 This experience highlighted how real-world systems often require investigation, experimentation, and presistence-skills that translate directly to infrastructure and platform engineering work.
 
-When working with Linux shell commands, I frequently encountered errors such as attempting to copy or delete files from the wrong directory which resluted in messages like "No such file or directory." Working through these mistakes helped reinforce the importance of understanding reletive vs. absolute paths and being aware of the current working directory at all times.
+When working with Linux shell commands, I frequently encountered errors such as attempting to copy or delete files from the wrong directory resluting in messages like "No such file or directory." Working through these mistakes reinforced the importance of understanding reletive vs. absolute paths and maintaining awareness of the current working directory.
 
 ---
 
@@ -85,6 +85,7 @@ When working with Linux shell commands, I frequently encountered errors such as 
 - Linux installation issues often stem from firmware and boot configuration, not the OS itself
 - Troubleshooting requires isolating variables and testing one change at a time
 - Hands-on setup builds confidence faster than tutorials alone
+- Small, repeatable practice sessions are more effective than long, unfocused study sessions
  
  ---
 ## Looking Ahead to Week 3
