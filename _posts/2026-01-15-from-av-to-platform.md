@@ -41,12 +41,24 @@ Commands I practiced included:
 - 'rm' to delete files
 - 'cat to creat and view text files
 - 'history' to review previously executed commands
-  
-I frequently encountered errors such as attempting to copy or delete files from the wrong directory which resluted in messages like "No such file or directory."
-Working through these mistakes helped reinforce the importance of understanding reletive vs. absolute paths and being aware of the current working directory at all times. 
 
-Below are screenshots from my terminal session showing the file navigation, file creation, copying files between directories and reviewing command history.
+Below are screenshots from my terminal session showing the file navigation, file creation, copying files, and deletion. 
 
+**Creating and viewing a file with cat**
+
+![Creating and viewing a file with cat](/assets/images/week2/cat%20file1%20.png)
+
+**Troubleshooting directory navigation issues**
+
+![Troubleshooting directory navigation issues](/assets/images/week2/cd%20desktop%20issue.png)
+
+**Fixing file copy issues with cd**
+
+![Fixing file copy issues with cd](/assets/images/week2/cp%20fixed.png)
+
+**File deletion using rm**
+
+![File deletion using rm](/assets/images/week2/rm%20file.png)
 
 The biggest improvement this week was feeling less "lost" in the terminal and more intentional with commands.
 
@@ -60,7 +72,9 @@ Dealing with BIOS settings, boot modes, and USB detection required patience and 
 
 This experience highlighted how real-world systems often require investigation, experimentation, and presistence-skills that translate directly to infrastructure and platform engineering work.
 
---
+When working with Linux shell commands, I frequently encountered errors such as attempting to copy or delete files from the wrong directory which resluted in messages like "No such file or directory." Working through these mistakes helped reinforce the importance of understanding reletive vs. absolute paths and being aware of the current working directory at all times.
+
+---
 
 ## What I Learned
 
