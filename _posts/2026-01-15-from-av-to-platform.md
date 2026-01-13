@@ -92,8 +92,8 @@ When working with Linux shell commands, I frequently encountered errors such as 
 
 Next week, I plan to:
 - Coninue strengthening Linux fundamentals
-- Begin automating small tasks using shell scripts
-- Start exporing container concepts at a high level
+- Begin experimenting with small shell-based tasks once foundational concepts feel solid
+- Explore container concepts at a high level after strenthening core Linux skills
 
 The focus will remain on learning by doing and documenting progress along the way. 
 
