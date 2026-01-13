@@ -34,7 +34,7 @@ Learning Git and GitHub workflows was the biggest adjustment. Documenting as I g
 
 
 
-## What's Next
+## Looking Ahead to Week 2
 - Install Ubuntu on Lenovo T440
 - Start Docker basics
 - Continue Linux practice
