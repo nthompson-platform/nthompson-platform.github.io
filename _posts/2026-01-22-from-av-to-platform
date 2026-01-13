@@ -1,1 +1,82 @@
+---
+layout: post
+title: "From AV Engineer to Platform Engineer - Week 3"
+date: 2026-01-22
+published: false
+---
 
+## Week 3 Progress Update
+
+Week 3 was focused on strenthening foundational Linux skills that are critical before moving into more advanced topics like automation and containers. Rather than rushing ahead, I intentionally slowed down to build confidence with permissions, processes, and day-to-day command-line usage. 
+
+The goal this week was to reduce friction in the terminal by understanding why commands behave the way they do not just memorizing syntax. 
+
+---
+
+## What I Focused On
+
+### Linux Permissions (Hands-On)
+
+This week, I spent time working with Linux file and directory permissions to better understand access control and ownership.
+
+Areas I focused on included
+
+- Understanding read, write, and execute permissions
+- Using ls -l to inspect file permissions
+- Modifying permissions with chmod
+- Understanding file ownership with chown
+- Recognizing when and why permission errors occur
+
+Working through permission-related errors helped reinforce how Linux enforces secuity at a basic level and why permissions are foundational to system administration and platform reliability. 
+
+### Processes and System Awareness
+
+I also began exploring how Linux manages running processes and system activity. 
+
+This included:
+
+- Viewing running processes with ps and top
+- Understanding process IDs (PIDs)
+- Identifying how commands run in the foreground vs background
+- Recognizing how processes consume system resources
+
+This gave me better visibility into what the system is doing beyond just executing commands, which helped connect the terminal to actual system behavior.  
+### Building CLI Confidence
+
+Rather than following tutorials step-by-step, I focused on spending more time working in the terminal:
+
+- Navigating directories without relying on a GUI
+- Intentionally breaking things and fixing them
+- Reading and understanding error messages
+- Repeating common commands until they felt natural
+
+This repetition helped reduce hesitation and made the termial feel more like a tool than a obstacle. 
+
+---
+
+## Challenges This Week
+
+One challenge was resisting the urge to jump ahead to more advanced topics like Docker before feeling solid in Linux fundamentals. 
+
+Another challenge was slowing down enough to read error messages carefully instead of immediately searching for answers. Taking the time to understand errors proved to be one ot the most valuable habits I practiced this week. 
+
+---
+
+## What I Learned
+
+- Linux permissions are central to system security and stability
+- Many errors are self-explanatory if you slow down and read them
+- CLI confidence comes from repetition, not shortcuts
+- Understanding processes helps connect commands to system behavior
+- Strong fundamentals make advanced tools easier to learn later
+
+ ---
+## Looking Ahead to Week 4
+
+Next week, I plan to:
+- Continue reinforcing Linux permissions and process management
+- Begin combining commands into small, repeatable workflows
+- Start light shell scripting once command-line usage feels secound nature
+- Revisit container concepts after strengthening Linux fundamentals
+
+Before moving into containers, I want to be confident in the underlying operating system they depend on. 
