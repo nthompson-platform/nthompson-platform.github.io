@@ -50,7 +50,7 @@ Below are screenshots from my terminal session showing the file navigation, file
 
 **Troubleshooting directory navigation issues**
 
-![Troubleshooting directory navigation issues](/assets/images/week2/cd%20desktop%20issue.png)
+![Troubleshooting directory navigation issues](/assets/images/week2/cd%20troubleshooting.png)
 
 **Fixing file copy issues with cd**
 
