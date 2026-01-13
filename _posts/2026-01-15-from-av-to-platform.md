@@ -25,12 +25,28 @@ Working through these issues helped me better understand how firmware, bootloade
 ---
 
 ### Linux Fundamentals (Hands-On)
-After completing the installation, I spent time working directly in the Linux terminal to become morecomfortable navigating and administering the system. 
+After completing the installation, I spent time working directly in the Linux terminal to become more comfortable navigating and administering the system. 
 
-Areas of focus included:
-- Navigating the filesystem using commands
-- Managing users, permissions, and basic services
-- Reading logs and understanding how system processes interact
+### Practicing Core Linux Shell Commands
+
+I focused on building comfort with basic Linux shell commands by working through real file and directory operations directly in the terminal. 
+
+Rather than following a scripted tutorial, I intentionally experimented, made mistakes and corrected them to better understand how Linux responds to user input.
+
+Commands I practiced included:
+
+- 'ls' to list files and directories
+- 'cd' to navigate between directories
+- 'cp' to copy files between directories
+- 'rm' to delete files
+- 'cat to creat and view text files
+- 'history' to review previously executed commands
+  
+I frequently encountered errors such as attempting to copy or delete files from the wrong directory which resluted in messages like "No such file or directory."
+Working through these mistakes helped reinforce the importance of understanding reletive vs. absolute paths and being aware of the current working directory at all times. 
+
+Below are screenshots from my terminal session showing the file navigation, file creation, copying files between directories and reviewing command history.
+
 
 The biggest improvement this week was feeling less "lost" in the terminal and more intentional with commands.
 
@@ -49,6 +65,7 @@ This experience highlighted how real-world systems often require investigation, 
 ## What I Learned
 
 - Comfort in Linux comes from repetition, not memorization
+- Linux error messages are often the fastest way to understand what went wrong if you slow down and read them carefully
 - Git makes more sense when used consistently on a real project
 - Clear documentation is a skill, not an afterthought
 - Linux installation issues often stem from firmware and boot configuration, not the OS itself
