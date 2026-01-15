@@ -2,6 +2,7 @@
 layout: post
 title: "From AV Engineer to Platform Engineer - Week 2"
 date: 2026-01-15
+tags: [linux, platform-engineering, career-transition]
 ---
 
 ## Week 2 Progress Update
