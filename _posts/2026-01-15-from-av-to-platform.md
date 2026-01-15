@@ -8,7 +8,6 @@ date: 2026-01-15
 
 Week 2 was focused on building conistency and getting more comfortable working directly in Linux and GitHub. Rather than trying to move too fast my goal this week was to strengthen core fundamentals and begin forming better habits around documentation, experimentation, and troubleshooting. 
 
----
 
 ## What I Focused On
 
@@ -22,7 +21,6 @@ The installation process requred troubleshooting several BIOS-related challenges
 
 Working through these issues helped me better understand how firmware, bootloaders, and operating system installation interact at a lower level. 
 
----
 
 ### Linux Fundamentals (Hands-On)
 After completing the installation, I spent time working directly in the Linux terminal to become more comfortable navigating and administering the system. This hands-on work helped reinforce how foundational Linux skills are to operating and supporting modern platforms and infrastructure. 
