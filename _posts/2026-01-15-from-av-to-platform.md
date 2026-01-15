@@ -60,7 +60,6 @@ Below are screenshots from my terminal session showing the file navigation, file
 
 The biggest improvement this week was feeling less "lost" in the terminal and more intentional with commands.
 
----
 
 ## Challenges This Week
 
@@ -72,7 +71,6 @@ This experience highlighted how real-world systems often require investigation, 
 
 When working with Linux shell commands, I frequently encountered errors such as attempting to copy or delete files from the wrong directory resluting in messages like "No such file or directory." Working through these mistakes reinforced the importance of understanding reletive vs. absolute paths and maintaining awareness of the current working directory.
 
----
 
 ## What I Learned
 
@@ -85,7 +83,6 @@ When working with Linux shell commands, I frequently encountered errors such as 
 - Hands-on setup builds confidence faster than tutorials alone
 - Small, repeatable practice sessions are more effective than long, unfocused study sessions
  
- ---
 ## Looking Ahead to Week 3
 
 Next week, I plan to:
