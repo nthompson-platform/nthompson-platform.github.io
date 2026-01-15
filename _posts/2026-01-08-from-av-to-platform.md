@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From AV Engineer to Platform Engineer - Week 1"
+tags: [linux, fundamentals, career-transition]
 ---
 
 
